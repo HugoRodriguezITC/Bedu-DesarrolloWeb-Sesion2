@@ -1,0 +1,55 @@
+.header-container-padre {
+    font-size: 15px;
+    font-family: sans-serif;
+    display: flex;
+    height: 45px;
+}
+
+.nav1 {
+    width: 70%;
+    text-align: center;
+    color: #025157;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.nav1 a {
+    color: #025157;
+    font-size: 14px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    width: 99%;
+    font-family: sans-serif;
+    color: #025157;
+}
+
+h1 {
+    background-color: teal;
+    margin-top: 50pxpx;
+    padding: 20px;
+}
+
+.login1 a {
+    color: #67b54b;
+}
+
+.boton1 {
+    margin-top: 0px;
+    background-color: #67b54b;
+    color: #ffffff;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
